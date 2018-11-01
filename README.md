@@ -1,7 +1,7 @@
 # GCI18-NewRepo
 A GCI Task 
 
-How to Use Github : 
+##How to Use Github : 
 
 GitHub has various advantages but many people often have a doubt as to why not use dropbox or any cloud based system? 
 Let me take the same example forward to answer this question. Say more than two software developers are working on 
@@ -15,7 +15,7 @@ data from the central server or push data to it whereas GitHub is a core hosting
 collaboration. GitHub is a company that allows you to host a central repository in a remote server.
 
 
-How to Contribute using Github :
+##How to Contribute using Github :
 
 1 .Create a personal fork of the project on Github.
 
